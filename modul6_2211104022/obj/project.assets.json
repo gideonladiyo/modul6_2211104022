@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "D:\\Programs\\VisualStudioTools\\VisualStudioSharedComponent\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\kuliah\\semester 6\\praktikum kpl\\KPL_GideonToranawaLadiyo_2211104022_SE0601\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2211104022\\modul6_2211104022\\modul6_2211104022.csproj",
+      "projectName": "modul6_2211104022",
+      "projectPath": "D:\\kuliah\\semester 6\\praktikum kpl\\KPL_GideonToranawaLadiyo_2211104022_SE0601\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2211104022\\modul6_2211104022\\modul6_2211104022.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\kuliah\\semester 6\\praktikum kpl\\KPL_GideonToranawaLadiyo_2211104022_SE0601\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2211104022\\modul6_2211104022\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programs\\VisualStudioTools\\VisualStudioSharedComponent\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
